@@ -120,19 +120,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## Deployment
 
-### Deploy to Vercel
-
-1. **Push your code to GitHub**
-
-2. **Connect to Vercel**:
-   - Go to [vercel.com](https://vercel.com)
-   - Import your GitHub repository
-   - Add your environment variables in the Vercel dashboard
-   - Deploy!
-
-### Deploy to Other Platforms
-
 The app can be deployed to any platform that supports Next.js:
+- Heroku
+- Vercel 
 - Netlify
 - Railway
 - DigitalOcean App Platform
@@ -186,7 +176,7 @@ This project is licensed under the MIT License.
 
 If you encounter any issues or have questions, please open an issue on GitHub.
 
-## Stretch Goals Implemented
+## Goals Implemented
 
 - [x] Clean, modern UI with attention to UX
 - [x] File upload with drag-and-drop support
@@ -196,13 +186,3 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 - [x] Responsive design for mobile and desktop
 - [x] Loading states and error handling
 - [x] TypeScript for better type safety
-
-## Future Enhancements
-
-- [ ] Dynamic SEC search integration
-- [ ] Multi-document comparison
-- [ ] Follow-up questions and chat threading
-- [ ] Document highlighting and navigation
-- [ ] External search enhancement
-- [ ] User authentication and document sharing
-- [ ] Advanced PDF parsing and text extraction
